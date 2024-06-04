@@ -1,0 +1,30 @@
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.suo
+*.pdb
+*.idb
+*.ilk
+*.exp
+*.lib
+*.dll
+*.so
+*.dylib
+
+# Qt-specific files
+Makefile
+qmake.cache
+/.qmake.stash
+/.qmake.vars
+*.pro.user
+*.pro.user.*
+
+# Generated files
+moc_*.cpp
+ui_*.h
+
+# Qt Creator files
+*.creator.user
+*cmake-build-*/
+
+# Compiler generated files
+moc_*.cpp
+qrc_*.cpp
